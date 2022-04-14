@@ -8,14 +8,14 @@ body {
 	min-width: 320px;
 	overflow-x: hidden;
 	height: 700vh;
-	background-color: #c46cfd;
+	background-color: #fff;
 }
 
 
 
 .navbar {
   width: 100%;
-  height: 80px;
+  height: 115px;
   box-shadow: 0 4px 10px rgba(133, 65, 179, .9);
   background-color: #c46cfd;
 }
@@ -280,7 +280,7 @@ a {
 
 
 .signin {
-  background-color: #c46cfd;
+  background-color: #fff;
   text-align: center;
 }
 .grid * {
@@ -336,9 +336,9 @@ a {
 .grid-item:hover .image img  {
     transform: scale(1.1);
 }
-.info h2 {
+.info h3 {
     font-family: 'Roboto', Тahoma, sans-serif;
-    color: #c46cfd;
+    color: black;
     font-size: 24px;
     font-weight: normal;
     margin: 0;
